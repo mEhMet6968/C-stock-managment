@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sinav\\calismaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|c:\\sinav\\calismaa\\calismaa\\kategori_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|solutionrelative:calismaa\\kategori_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|C:\\sinav\\calismaa\\calismaa\\kategori_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|solutionrelative:calismaa\\kategori_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|C:\\sinav\\calismaa\\calismaa\\satisdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|solutionrelative:calismaa\\satisdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|C:\\sinav\\calismaa\\calismaa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|solutionrelative:calismaa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|C:\\sinav\\calismaa\\calismaa\\urun_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|solutionrelative:calismaa\\urun_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|C:\\sinav\\calismaa\\calismaa\\urun_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE530FD-8798-48E4-A0A4-7C5C70C339DC}|calismaa\\calismaa.csproj|solutionrelative:calismaa\\urun_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 356,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kategori_islem.cs",
+              "DocumentMoniker": "C:\\sinav\\calismaa\\calismaa\\kategori_islem.cs",
+              "RelativeDocumentMoniker": "calismaa\\kategori_islem.cs",
+              "ToolTip": "C:\\sinav\\calismaa\\calismaa\\kategori_islem.cs",
+              "RelativeToolTip": "calismaa\\kategori_islem.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwF4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:30:40.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kategori_islem.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\sinav\\calismaa\\calismaa\\kategori_islem.cs",
+              "RelativeDocumentMoniker": "calismaa\\kategori_islem.cs",
+              "ToolTip": "C:\\sinav\\calismaa\\calismaa\\kategori_islem.cs [Tasar\u0131m]",
+              "RelativeToolTip": "calismaa\\kategori_islem.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:30:38.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "satisdetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\sinav\\calismaa\\calismaa\\satisdetay.cs",
+              "RelativeDocumentMoniker": "calismaa\\satisdetay.cs",
+              "ToolTip": "C:\\sinav\\calismaa\\calismaa\\satisdetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "calismaa\\satisdetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:30:07.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "urun_islem.cs",
+              "DocumentMoniker": "C:\\sinav\\calismaa\\calismaa\\urun_islem.cs",
+              "RelativeDocumentMoniker": "calismaa\\urun_islem.cs",
+              "ToolTip": "C:\\sinav\\calismaa\\calismaa\\urun_islem.cs",
+              "RelativeToolTip": "calismaa\\urun_islem.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwE0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:24:33.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "urun_islem.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\sinav\\calismaa\\calismaa\\urun_islem.cs",
+              "RelativeDocumentMoniker": "calismaa\\urun_islem.cs",
+              "ToolTip": "C:\\sinav\\calismaa\\calismaa\\urun_islem.cs [Tasar\u0131m]",
+              "RelativeToolTip": "calismaa\\urun_islem.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:24:30.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\sinav\\calismaa\\calismaa\\Form1.cs",
+              "RelativeDocumentMoniker": "calismaa\\Form1.cs",
+              "ToolTip": "C:\\sinav\\calismaa\\calismaa\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "calismaa\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:49:44.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
